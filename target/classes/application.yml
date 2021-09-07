@@ -1,0 +1,25 @@
+# DataSource Config
+server:
+  port: 8090
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vueblog?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: password
+  redis:
+    host: localhost
+    port: 6379
+  mail:
+      host:  smtp.163.com
+      username: 1033865504@qq.com
+      password: soustiizzuytbaja
+      default- encoding: UTF-8
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**Mapper.xml
+fanli:
+  jwt:
+    # 部署上线务必修改此配置，以保证token的安全性
+    secret: f4e2e52034348f86b67cde581c0f9eb5
+    expire: 172800
+    header: token
