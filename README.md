@@ -30,7 +30,7 @@ markdown：
 =======
  - 解析渲染：markdown-it-vue(略作修改，以支持行号和代码黑色背景)
  - 样式：github-markdown-css （github dark风格的代码高亮）
->>>>>>> 25ac65fbe4b598bea07bb5784d06778d581a3cba
+
 
 
 ## 后端
@@ -80,7 +80,7 @@ markdown：
 - 后端优化
 
 ## 项目快速开始
->>>>>>> 25ac65fbe4b598bea07bb5784d06778d581a3cba
+
 1. 执行console.sql创建数据库 
 2. 开启redis
 3. idea中修改yml配置，然后运行后端项目
@@ -89,9 +89,9 @@ markdown：
 
 <<<<<<< HEAD
 ##项目线上部署
-=======
-## 项目线上部署
->>>>>>> 25ac65fbe4b598bea07bb5784d06778d581a3cba
+
+
+
 1. 使用docker-compose来编排 
 2. 需要nginx、redis、后端项目、mysql
 3. 配置证书，可申请腾讯、阿里的一年免费证书
