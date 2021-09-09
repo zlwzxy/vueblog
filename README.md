@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
 	<img src="https://img.shields.io/badge/JDK-1.8+-orange">
 	<img src="https://img.shields.io/badge/SpringBoot-2.2.7.RELEASE-brightgreen">
