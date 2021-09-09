@@ -7,22 +7,14 @@
 	<img src="https://img.shields.io/badge/license-MIT-blue">	
 </p>
 
-## 博客预览
-[参见博客](https://www.skymo.top/blog/11)
-
-
-=======
->>>>>>> 25ac65fbe4b598bea07bb5784d06778d581a3cba
-
-
 ## 简介
 
 很早就有了做个人博客的想法，学习了springboot后，趁热打铁，就做了这个博客来练手。项目是基于 Spring Boot + Vue 的前后端分离博客系统。
 
-<<<<<<< HEAD
-本项目长期维护，欢迎fork代码和star！。
-=======
->>>>>>> 25ac65fbe4b598bea07bb5784d06778d581a3cba
+
+本项目长期维护.
+
+>>>>>>> 
 ## 前端
 
 核心框架：
@@ -105,12 +97,5 @@ markdown：
 3. 配置证书，可申请腾讯、阿里的一年免费证书
 4. nginx反向代理，将https请求通过http转给后端容器，避免接口暴露和http的不安全性
 
-## 致谢
-项目开发过程中参考了很多大佬的博客，比如[NBlog](https://github.com/Naccl/NBlog)
-、[MyBlog](https://github.com/zhyocean/MyBlog)等等，也感谢[MarkerHub的视频](https://www.bilibili.com/video/BV17A411E7aE?t=39&p=9),
-<<<<<<< HEAD
-帮我入门springboot的项目开发。
-=======
-让我开始了解怎么做一个springboot的项目。
->>>>>>> 25ac65fbe4b598bea07bb5784d06778d581a3cba
+
 
